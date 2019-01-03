@@ -1,7 +1,7 @@
 package com.example.javamavenjunithelloworld;
 
 /**
- *Test change 12
+ *Test change to change the comments
 
  * A very basic program that demonstrates the use of JUnit tests. The tests include a sample unit test and an
  * integration test.
