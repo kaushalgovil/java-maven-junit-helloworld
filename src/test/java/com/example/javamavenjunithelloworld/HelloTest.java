@@ -22,7 +22,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
  * <p/>
  * A unit test aims to test all code and code paths of a specific class.
  */
-public class HelloTest {
+ public class HelloTest {
 
     @Test
     public void testSayHello() {
